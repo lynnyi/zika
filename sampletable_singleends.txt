@@ -1,0 +1,5 @@
+	sample	condition
+1	SRR3194428	mock
+2	SRR3194429	mock
+3	SRR3194430	zika
+4	SRR3194431	zika
